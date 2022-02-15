@@ -6,7 +6,7 @@
 ## Contents
 ### bin
 - Contains a demo main function to showcase the data structure.
-- Contains the MakeFile used to compile the project.
+- Contains the Makefile used to compile the project.
 ### src
 - Contains the source code of the project.
 ## Compilation
