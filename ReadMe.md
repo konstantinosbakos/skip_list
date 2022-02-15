@@ -11,7 +11,7 @@
 - Contains the source code of the project.
 ## Compilation
 Please type `make` inside the `skip_list/bin` folder.\
-After that, type `./skiplist` to run the program.\
+After that, type `./skip_list` to run the program.\
 To delete the objective files and the executable type `make clean`
 ## Insight
 The project consists of two classes, **skip_node** and **skip_list**.
